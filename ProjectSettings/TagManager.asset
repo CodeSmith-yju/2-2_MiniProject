@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Eff
+  - enemy_Eff
   layers:
   - Default
   - TransparentFX
@@ -11,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - monster
+  - Popup
   - 
   - 
   - 
@@ -38,6 +40,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: UI
+    uniqueID: 1357277877
+    locked: 0
+  - name: Popup
+    uniqueID: 844729049
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: monster
+    uniqueID: 1626158447
+    locked: 0
+  - name: popui
+    uniqueID: 3592433669
     locked: 0
